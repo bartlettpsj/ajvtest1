@@ -1,0 +1,9 @@
+{
+  "name": "ajvtest1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^6.10.2"
+  }
+}
